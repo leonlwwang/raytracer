@@ -1,0 +1,26 @@
+png 200 200 gi.png
+
+gi 2
+aa 20
+
+color 8 8 8
+sun 1 0.5 -2
+
+color 0 1 .25
+xyz 1 2 0
+xyz 1 2 -18
+xyz 1 -5 -18
+xyz 1 -5 0
+tri -4 -3 -2
+tri -2 -1 -4
+
+color 0.3 0.5 0.9
+xyz -1 2 0
+xyz -1 2 -18
+xyz -1 -5 -18
+xyz -1 -5 0
+tri -4 -3 -2
+tri -2 -1 -4
+
+color 1 0 1
+plane 0 1 0 5

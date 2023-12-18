@@ -1,0 +1,14 @@
+png 100 100 trans1.png
+
+sphere 0 -1 -2 1
+color 1 0 0
+sphere -1 0 -2 0.3
+
+color 1 0.5 1
+
+transparency 1
+sphere 0 0 -1 0.3
+transparency 0.8
+sphere -0.3 0.1 -0.4 0.1
+
+sun 1 1 1

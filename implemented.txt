@@ -1,0 +1,11 @@
+exposure
+suns
+camera
+lenses
+plane
+triangle
+barycentric
+map
+bulb
+antialias
+focus

@@ -1,0 +1,11 @@
+png 100 100 tex.png
+
+sun 1 1 1
+
+color 1 0 0
+texture earth.png
+sphere -.5 0 -1 0.4
+texture moon.png
+sphere -0.5 0 -10 8
+texture none
+sphere 0 0.5 -1 0.1

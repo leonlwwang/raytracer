@@ -1,0 +1,4 @@
+test/core/*.png
+test/elective/*.png
+out/*
+.vscode
